@@ -1,0 +1,1 @@
+[The making of a manager & Jun 28th - Jul 5th](https://drive.google.com/file/d/1s--kp7EJSEm-a3y4vUFGFs3QRnsRdZ4I/view?usp=sharing)
