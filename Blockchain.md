@@ -13,7 +13,7 @@ https://github.com/Rositagui/MIT-Blockchain
 - Rosita Aguirre Plascencia [@Rositagui](https://github.com/Rositagui)
 - Noemi Márquez Fernández [@NoemiMaFe](https://github.com/NoemiMaFe)
 
-## Starting with Blockchain Resources:
+## Resources:
 - [What is Blockchain?](https://www.youtube.com/watch?v=yubzJw0uiE4)
 - [What is Metamask?](https://www.youtube.com/watch?v=byWul4xOBx0&list=PLq1m4_zU7mG7RO3RSZd0FQgUyVLg0jX6x&index=5)
 - [What are Smart Contracts?](https://www.youtube.com/watch?v=pyaIppMhuic&list=PLq1m4_zU7mG7RO3RSZd0FQgUyVLg0jX6x&index=3&t=14s)
