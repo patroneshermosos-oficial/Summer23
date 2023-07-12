@@ -50,7 +50,7 @@ Evaluar tu progreso y los resultados obtenidos, identificando áreas en las que 
 
 
 ### Periodo 2 - Viernes 9 de junio al Viernes 23 de junio
-Libro: Range - David Epstein
+#### Libro: Range - David Epstein
 
 Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
 
@@ -61,7 +61,7 @@ El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patrones
 *Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
 ### Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
-Libro: The lean startup - Eric Ries
+#### Libro: The lean startup - Eric Ries
 
 Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
 
@@ -78,22 +78,22 @@ Si quieres ver más de cómo iba la estructura en este punto de la semana (que a
 
 
 ### Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
-Libro: The making of a manager - Julie Zhuo
+#### Libro: The making of a manager - Julie Zhuo
 
 Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
 
 
 
 ### Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
-Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
+#### Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
 
 Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
 
 ### Periodo 6 - Miércoles 12 de julio al 19 de Julio
-Libro: Influence - Robert B Cialdini
+#### Libro: Influence - Robert B Cialdini
 
 ### Periodo 7 - Miércoles 19 de Julio - Miércoles 26 de Julio
-Libro: The Demon-Haunted World - Carl Sagan
+#### Libro: The Demon-Haunted World - Carl Sagan
 
 ### Periodo 8 - Miercoles 26 de Julio - Miércoles 2 de Agosto
 
