@@ -65,6 +65,12 @@ El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patrones
 
 Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
 
+
+### Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
+#### Libro: The making of a manager - Julie Zhuo
+
+Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+
 **Tarea a realizar: mini curso para mini cursos**
 
 De acuerdo con lo que se trabajó una semana antes en el análisis de estrategias exitosas de marketing elegí hacer un mini curso para hacer mini cursos, con el fin de que chicas fuera de Patrones Hermosos pudieran ser instructoras del tema en el que son buenas y les interesa, con tal iniciativa podríamos abordar diversas necesidades, como lo son: visibilizar a mujeres talentosas en temas que les apasionan; crear contenido sustentable en la plataforma de Patrones Hermosos sin que el equipo BP se tenga que especializar en cada uno de los temas que se nos ocurren impartir, sobretodo porque muchas veces no tenemos tiempo (ahorramos horas de grabación y tiempo de especialización en el tema); que las chicas que desean tomar los mini cursos tengan un espacio accesible y de formato sencillo en donde poder aprender de distintas tecnologías; por último, sirve como material publicitario para Patrones Hermosos
@@ -75,19 +81,23 @@ Surgió la idea de que se pueda automatizar la identificación de un rostro huma
 
 Si quieres ver más de cómo iba la estructura en este punto de la semana (que aún trabajaba en Notion y no directamente en el repo) lo puedes ver [aquí](https://www.notion.so/Mini-curso-para-hacer-mini-cursos-6f9c56f09e214199ade75192d3c30f83?pvs=4)
 
-
-
-### Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
-#### Libro: The making of a manager - Julie Zhuo
-
-Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
-
+*Side note: compartí el avancé de mi proyecto con más chicas en el equipo BP y me dieron algunas recomendaciones, como: dar contexto e introducción de Patrones Hermosos a las chicas que serían instructoras de los mini cursos, añadir una fase de pre-revisión para dar oportunidad a que las aplicantes manden un video "demo" y poderles dar retroalimentación antes de que graben el resto del curso*
 
 
 ### Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
 #### Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
 
 Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+
+**Tarea a realizar: continuar con e instructivo para minicursos, dándo una mejor estrutura y una explicación más clara a alto nivel**
+
+En esta semana, tomé la decisión de dividir el repositorio en dos: uno llamado [make-a-minicourse](https://github.com/patroneshermosos-oficial/make-a-minicourse) y el otro [supervise-a-minicourse](https://github.com/patroneshermosos-oficial/supervise-a-minicourse), dado que el primero será el que las chicas que deseen aplicar a crear un mini curso puedan tomar para tener instrucciones, recomendaciones y evaluaciones con retroalimentación claras en su proceso de aplicación; y el otro repositorio es dedicado para el equipo de Patrones Hermosos que desea apoyar en la supervisión y evaluación de los mini cursos para poder darlos de alta en la plataforma. 
+
+Trabajé en poder tener un README.md adecuado para cada repositorio, dando el contexto necesario de acuerdo a las necesidades de cada grupo meta, además de un archivo que sirva como guía par navegar en el repositorio. Aunado a lo anterior, en las carpetas de cada repositorio añadí archivos para la evaluación y retroalimentación. El archivo que funciona para poder calificar la calidad de los mini cursos, está automatizado para que las evaluadoras solo tengan que seleccionar los valores de acuerdo a la calidad, de manera que el puntaje y el estatus del curso se actualiza automáticamente. 
+
+*La meta para la siguiente semana es poder automatizar el proceso de retroalimentación de acuerdo a las deficiencias del curso y poder replicar el proceso para la Etapa de pre-revisión, la cual es para los videos "demo" que mandan las aplicantes*
+
+[Aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse) puedes encontrar el repositorio para hacer un mini curso (que les servirá a las aplicantes) y [aquí](https://github.com/patroneshermosos-oficial/supervise-a-minicourse) podrás encontrar el que sirve para ls evaluadoras en el equipo de Patrones Hermosos.
 
 ### Periodo 6 - Miércoles 12 de julio al 19 de Julio
 #### Libro: Influence - Robert B Cialdini
