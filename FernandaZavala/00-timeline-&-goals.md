@@ -56,16 +56,38 @@ Mi opinión del libro la puedes encontrar [aquí](https://github.com/patronesher
 
 **Tarea a realizar: utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar**
 
-El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-analysis-autogpt-recommendations.md)
+El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-analysis-autogpt/reporte-general.md)
+
+*Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
 ### Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
 Libro: The lean startup - Eric Ries
 
+Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+
+**Tarea a realizar: mini curso para mini cursos**
+
+De acuerdo con lo que se trabajó una semana antes en el análisis de estrategias exitosas de marketing elegí hacer un mini curso para hacer mini cursos, con el fin de que chicas fuera de Patrones Hermosos pudieran ser instructoras del tema en el que son buenas y les interesa, con tal iniciativa podríamos abordar diversas necesidades, como lo son: visibilizar a mujeres talentosas en temas que les apasionan; crear contenido sustentable en la plataforma de Patrones Hermosos sin que el equipo BP se tenga que especializar en cada uno de los temas que se nos ocurren impartir, sobretodo porque muchas veces no tenemos tiempo (ahorramos horas de grabación y tiempo de especialización en el tema); que las chicas que desean tomar los mini cursos tengan un espacio accesible y de formato sencillo en donde poder aprender de distintas tecnologías; por último, sirve como material publicitario para Patrones Hermosos
+
+En este periodo, me dediqué a crear un esqueleto general de cómo me gustaría que se viera la idea en un repositorio, separando los archivos y necesidades de Producción y Administrativas.
+
+Surgió la idea de que se pueda automatizar la identificación de un rostro humano en los videos, así como evaluar la calidad del sonido a través de herramientas de inteligencia artificial, automatizando lo más posible el proceso.
+
+Si quieres ver más de cómo iba la estructura en este punto de la semana (que aún trabajaba en Notion y no directamente en el repo) lo puedes ver [aquí](https://www.notion.so/Mini-curso-para-hacer-mini-cursos-6f9c56f09e214199ade75192d3c30f83?pvs=4)
+
+
+
 ### Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
 Libro: The making of a manager - Julie Zhuo
 
+Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+
+
+
 ### Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
-Libro: The coding of the american mind - Greg Lukianoff & Jonathan Haidt
+Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
+
+Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
 
 ### Periodo 6 - Miércoles 12 de julio al 19 de Julio
 Libro: Influence - Robert B Cialdini
@@ -76,3 +98,7 @@ Libro: The Demon-Haunted World - Carl Sagan
 ### Periodo 8 - Miercoles 26 de Julio - Miércoles 2 de Agosto
 
 ### Fecha de partida de Boston: Martes 1 de agosto
+
+# Goals
+
+# Enseñanzas generales
