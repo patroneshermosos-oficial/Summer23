@@ -216,11 +216,13 @@ Entienden la importancia de conectar con la audiencia meta a un nivel personal. 
 
 ## Instalación y uso de Auto GPT
 
-[autgtp-propuesta.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed7572d8-9949-4656-87f0-09899f38ea4d/autgtp-propuesta.pdf)
+El video que me ayudó con la instalación y uso de auto-gpt es [este](https://youtu.be/0m0AbdoFLq4)
+
+El reporte que logré generar para crear estrategias de marketing y creación de comunidad lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-analysis-autogpt/reporte-autogpt.pdf)
 
 ## Instalación y uso de Langchain
 
-*Se necesitaba una licencia premium de OpenAI para el uso de las APIs, no fue posible utilizarlo de manera exitosa, el modelo que logré entrenar con datos no relacionados lo puedes encontrar [aquí]()
+*Se necesitaba una licencia premium de OpenAI para el uso de las APIs, no fue posible utilizarlo de manera exitosa, el modelo que logré entrenar con datos no relacionados lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-analysis-autogpt/Langchain.ipynb)*
 
 ## Side notes:
 
