@@ -97,10 +97,21 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 
 *La meta para la siguiente semana es poder automatizar el proceso de retroalimentación de acuerdo a las deficiencias del curso y poder replicar el proceso para la Etapa de pre-revisión, la cual es para los videos "demo" que mandan las aplicantes*
 
-[Aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse) puedes encontrar el repositorio para hacer un mini curso (que les servirá a las aplicantes) y [aquí](https://github.com/patroneshermosos-oficial/supervise-a-minicourse) podrás encontrar el que sirve para ls evaluadoras en el equipo de Patrones Hermosos.
+[Aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse) puedes encontrar el repositorio para hacer un mini curso (que les servirá a las aplicantes) y [aquí](https://github.com/patroneshermosos-oficial/supervise-a-minicourse) podrás encontrar el que sirve para las evaluadoras en el equipo de Patrones Hermosos.
 
 ### Periodo 6 - Miércoles 12 de julio al 19 de Julio
 #### Libro: Influence - Robert B Cialdini
+
+Metas planteadas en la semana anterior: 
++ Automatizar la retroalimentación de los minicursos en el documento de sheets
++ Pasar la rúbrica del video demo a sheets y atomatizar (actualmente está en un md en el repo)
++ Crear los formularios de aplicación para las solicitantes en google forms y agregarlo en la carpeta generada en Google drive
++ Crear las plantillas en Canva para el contenido de los mini cursos
++ Hacer que el mismo archivo de sheets en donde está la rúbrica de puntaje, en una hoja extra se cree el archivo de retroalimentación de acuerdo al puntaje obtenido en cada rubro con los datos de la instructora para solo descargarlo y enviarlo a las chicas
++ Explicar como funciona el archivo de retroalimentación en la documentación del repo
+
++ Automatiza con IA para calidad de audio y video  
+
 
 ### Periodo 7 - Miércoles 19 de Julio - Miércoles 26 de Julio
 #### Libro: The Demon-Haunted World - Carl Sagan
@@ -109,6 +120,12 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 
 ### Fecha de partida de Boston: Martes 1 de agosto
 
-# Goals
+# Metas
 
-# Enseñanzas generales
++ Llevar una documentación adecuada para poder llevar un "record" de mi trabajo, pero también para que pueda causar impacto y servir a más personas
++ Continuar con más iniciativas encontradas en el Periodo 2 para el crecimiento de Patrones Hermosos
++ Automatizar procesos dentro de la iniciativa de la Guía para minicursos con la finalidad de agilizar el proceso, ahorrar tiempo y no depender tanto de más manos humanas
++ Analizar y aplicar el conocimiento adquirido de los libros de cada semana y el análisis de estrategia realizado con Auto GPT
++ Aprender del estilo de vida de MA, de la primera vez vivendo "sola" (fuera de mi casa) y viviendo un verano extraordinario
+
+# Enseñanzas generales (hacia el final del verano) 
