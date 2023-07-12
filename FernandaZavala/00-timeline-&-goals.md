@@ -3,7 +3,7 @@
 
 ### Periodo 1 - Jueves 1 de junio al Viernes 9 de junio
 #### Libro: The first 90 days - Michael Watkins
-Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/12OzBQkCDthIInqgw8sV86HxTfoWxMh8y/view?usp=sharing)
 
 #### Tarea a realizar: Tener un plan para los dos meses de estancia basado en el libro que leímos
 
@@ -52,7 +52,7 @@ Evaluar tu progreso y los resultados obtenidos, identificando áreas en las que 
 ### Periodo 2 - Viernes 9 de junio al Viernes 23 de junio
 #### Libro: Range - David Epstein
 
-Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1-WHuDe6nabAYYe5wqODothRzM8Lg78C9/view?usp=sharing)
 
 **Tarea a realizar: utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar**
 
@@ -63,13 +63,13 @@ El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patrones
 ### Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
 #### Libro: The lean startup - Eric Ries
 
-Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1R2yIA1HTMx0VyYoieCtIrKbbzDuMFW0n/view?usp=sharing)
 
 
 ### Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
 #### Libro: The making of a manager - Julie Zhuo
 
-Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1JDZ85Jn_ML25Xss_q8Vf4ogxMmxUckZs/view?usp=sharing)
 
 **Tarea a realizar: mini curso para mini cursos**
 
@@ -87,7 +87,7 @@ Si quieres ver más de cómo iba la estructura en este punto de la semana (que a
 ### Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
 #### Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
 
-Mi opinión del libro la puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/03-videos.md)
+Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1OJLjU2Qtqfvx-Lpbxie_B4ADNFY9VRDA/view?usp=sharing)
 
 **Tarea a realizar: continuar con e instructivo para minicursos, dándo una mejor estrutura y una explicación más clara a alto nivel**
 
