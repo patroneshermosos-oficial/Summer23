@@ -25,7 +25,7 @@ In addition, I have been working on creating a comprehensive guide for developin
 
 Overall, my work this summer has focused on leveraging technology and educational initiatives to promote inclusivity and empowerment in STEM. Through marketing analysis and the development of educational resources, I strive to contribute to creating a more equitable and accessible environment for girls and women in these fields.
 
-## 🧭 How to navigate in this repo
+## 🧭 How to navigate in this folder
 
 This folder, named [Fernanda Zavala](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala), is located within the [Summer23](https://github.com/patroneshermosos-oficial/Summer23/tree/main) repository. Here, you will find the following files and folders:
 
