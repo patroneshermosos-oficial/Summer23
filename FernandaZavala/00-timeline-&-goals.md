@@ -1,7 +1,7 @@
 # Bitácora
-### Fecha de llegada a Boston: Jueves 1 de junio
+Fecha de llegada a Boston: Jueves 1 de junio
 
-### Periodo 1 - Jueves 1 de junio al Viernes 9 de junio
+## Periodo 1 - Jueves 1 de junio al Viernes 9 de junio
 #### Libro: The first 90 days - Michael Watkins
 Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/12OzBQkCDthIInqgw8sV86HxTfoWxMh8y/view?usp=sharing)
 
@@ -49,7 +49,8 @@ Evaluar tu progreso y los resultados obtenidos, identificando áreas en las que 
 *Comentario al 12/julio/2023: me di cuenta de que este plan lo hice de acuerdo a las tecnologías que en ese momento pensaba que íbamos a utilizar, y considernado que todas estaríamos involucradas con todas las tecnologías, sin embargo el plan cambió de acuerdo a los intereses y las necesidades del proyecto, particularmente dado el análisis que hice con auto-gpt en el Periodo 2*
 
 
-### Periodo 2 - Viernes 9 de junio al Viernes 23 de junio
+
+## Periodo 2 - Viernes 9 de junio al Viernes 23 de junio
 #### Libro: Range - David Epstein
 
 Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1-WHuDe6nabAYYe5wqODothRzM8Lg78C9/view?usp=sharing)
@@ -60,13 +61,13 @@ El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patrones
 
 *Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
-### Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
+## Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
 #### Libro: The lean startup - Eric Ries
 
 Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1R2yIA1HTMx0VyYoieCtIrKbbzDuMFW0n/view?usp=sharing)
 
 
-### Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
+## Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
 #### Libro: The making of a manager - Julie Zhuo
 
 Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1JDZ85Jn_ML25Xss_q8Vf4ogxMmxUckZs/view?usp=sharing)
@@ -84,7 +85,7 @@ Si quieres ver más de cómo iba la estructura en este punto de la semana (que a
 *Side note: compartí el avancé de mi proyecto con más chicas en el equipo BP y me dieron algunas recomendaciones, como: dar contexto e introducción de Patrones Hermosos a las chicas que serían instructoras de los mini cursos, añadir una fase de pre-revisión para dar oportunidad a que las aplicantes manden un video "demo" y poderles dar retroalimentación antes de que graben el resto del curso*
 
 
-### Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
+## Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
 #### Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
 
 Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1OJLjU2Qtqfvx-Lpbxie_B4ADNFY9VRDA/view?usp=sharing)
@@ -99,10 +100,12 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 
 [Aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse) puedes encontrar el repositorio para hacer un mini curso (que les servirá a las aplicantes) y [aquí](https://github.com/patroneshermosos-oficial/supervise-a-minicourse) podrás encontrar el que sirve para las evaluadoras en el equipo de Patrones Hermosos.
 
-### Periodo 6 - Miércoles 12 de julio al 19 de Julio
+## Periodo 6 - Miércoles 12 de julio al 19 de Julio
 #### Libro: Influence - Robert B Cialdini
 
-Metas planteadas en la semana anterior: 
+Mi opinión del libro la puedes encontrar [aquí]()
+
+**Metas planteadas en la semana anterior:**
 + Automatizar la retroalimentación de los minicursos en el documento de sheets
 + Pasar la rúbrica del video demo a sheets y atomatizar (actualmente está en un md en el repo)
 + Crear los formularios de aplicación para las solicitantes en google forms y agregarlo en la carpeta generada en Google drive
@@ -113,12 +116,12 @@ Metas planteadas en la semana anterior:
 + Automatiza con IA para calidad de audio y video  
 
 
-### Periodo 7 - Miércoles 19 de Julio - Miércoles 26 de Julio
+## Periodo 7 - Miércoles 19 de Julio - Miércoles 26 de Julio
 #### Libro: The Demon-Haunted World - Carl Sagan
 
-### Periodo 8 - Miercoles 26 de Julio - Miércoles 2 de Agosto
+## Periodo 8 - Miercoles 26 de Julio - Miércoles 2 de Agosto
 
-### Fecha de partida de Boston: Martes 1 de agosto
+Fecha de partida de Boston: Martes 1 de agosto
 
 # Metas
 
