@@ -26,6 +26,6 @@
 
 ### [Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt](https://drive.google.com/file/d/1OJLjU2Qtqfvx-Lpbxie_B4ADNFY9VRDA/view?usp=sharing)
 
-### [Libro: Influence - Robert B Cialdini]()
+### [Libro: Influence - Robert B Cialdini](https://drive.google.com/file/d/1AiH_Wqie6dk3_c70bVzwkj5eAv-OKREw/view?usp=sharing)
 
 ### [Libro: The Demon-Haunted World - Carl Sagan]()
