@@ -1,6 +1,6 @@
 ![mit](https://github.com/patroneshermosos-oficial/Summer23/assets/72468795/61d448bb-6a07-4672-8ebc-9df15c8770ae)
 # Summer at MIT/Beautiful Patterns 2023 - Fernanda Zavala
-June 1st - August 1st 
+June 1st - August 1st 2023
 
 ## 🙋🏻‍♀️ About me
 
