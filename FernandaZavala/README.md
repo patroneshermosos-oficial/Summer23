@@ -27,7 +27,7 @@ Overall, my work this summer has focused on leveraging technology and educationa
 
 ## 🧭 How to navigate in this repo
 
-This folder, named "Fernanda Zavala," is located within the "Summer23" repository. Here, you will find the following files and folders:
+This folder, named [Fernanda Zavala](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala), is located within the [Summer23](https://github.com/patroneshermosos-oficial/Summer23/tree/main) repository. Here, you will find the following files and folders:
 
 **[00-timeline-&goals.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md)** This file contains a detailed timeline of my progress week by week. It includes a brief description of the tasks accomplished, along with comments or conclusions about the work completed. Additionally, it provides links to track the progress made in other repositories within the Patrones Hermosos space. Furthermore, you will find my thoughts and opinions on the book assigned for each week's reading. Lastly, the file concludes with a section that reflects on the overall learnings gained throughout the summer.
 
