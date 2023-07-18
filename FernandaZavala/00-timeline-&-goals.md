@@ -56,7 +56,7 @@ Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/
 
 **Tarea a realizar: utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar**
 
-El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-analysis-autogpt/reporte-general.md)
+El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/analysis-autogpt/reporte-general.md)
 
 *Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
