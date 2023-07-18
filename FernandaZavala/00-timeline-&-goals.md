@@ -103,7 +103,7 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 ## Periodo 6 - Miércoles 12 de julio al 19 de Julio
 #### Libro: Influence - Robert B Cialdini
 
-Mi opinión del libro la puedes encontrar [aquí]()
+Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1AiH_Wqie6dk3_c70bVzwkj5eAv-OKREw/view?usp=sharing)
 
 **Metas planteadas en la semana anterior:**
 + Automatizar la retroalimentación de los minicursos en el documento de sheets
