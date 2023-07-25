@@ -59,6 +59,6 @@ Esta carpeta, llamada [Fernanda Zavala](https://github.com/patroneshermosos-ofic
 
 **[01-videos-progress-&-books.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-videos-progress-%26-books.md)** En este archivo encontrarás enlaces directos a mis comentarios en cada período de trabajo y a los libros que he leído. Esto sirve como una referencia práctica para acceder al contenido específico y al progreso realizado durante el verano.
 
-**[carpeta analysis-autogpt:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/01-analysis-autogpt)** Esta carpeta sirve como anexo al trabajo realizado durante los períodos iniciales. Para obtener una descripción más detallada de su contenido, consulta el archivo [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md).
+**[carpeta analysis-autogpt:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** Esta carpeta sirve como anexo al trabajo realizado durante los períodos iniciales. Para obtener una descripción más detallada de su contenido, consulta el archivo [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md).
 
 Siéntete libre de explorar estos archivos y carpetas para obtener una comprensión completa de mi trabajo, progreso
