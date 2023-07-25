@@ -36,7 +36,14 @@ I'm excited to be part of this summer project at MIT and look forward to contrib
 
 
 ## 🔎 About Beautiful Patterns
-
+<div id="badges">
+  <a href="https://www.youtube.com/@patroneshermosos.oficial">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://instagram.com/patroneshermosos.oficial?igshid=MmIzYWVlNDQ5Yg==">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 Beautiful Patterns is an interdisciplinary initiative that aims to address social and technological challenges in STEM education for women, especially in the field of computing in a rapidly evolving world. Our goal is to promote active participation of women in these areas, fostering interest, confidence, and equitable access to opportunities. Through various activities and resources, Beautiful Patterns seeks to inspire and support girls interested in STEM by providing a space where they can explore their passions, develop relevant skills, and connect with a community of like-minded individuals. We believe in the importance of creating a more equitable society where women have balanced representation and meaningful influence in the world of technology.
 
 ## 👩🏻‍💻 About my work this summer
