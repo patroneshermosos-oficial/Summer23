@@ -18,7 +18,7 @@ June 1st - August 1st 2023
   <a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-zavala-l%C3%B3pez-46b144207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/ferzavalal?igshid=MmIzYWVlNDQ5Yg==">
+  <a href="https://instagram.com/ferzavalal">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/ferszavala">
