@@ -1,8 +1,27 @@
-![mit](https://github.com/patroneshermosos-oficial/Summer23/assets/72468795/61d448bb-6a07-4672-8ebc-9df15c8770ae)
+> [English version](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/README.md)
+
 # Verano en MIT/Patrones Hermosos 2023 - Fernanda Zavala
+
 Del 1 de junio al 1 de agosto de 2023
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GEXqfBczlXo">
+    <img src="https://img.youtube.com/vi/GEXqfBczlXo/maxresdefault.jpg" alt="Video Thumbnail" width="640" height="360">
+  </a>
+</p>
+
 ## 🙋🏻‍♀️ Sobre mí
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-zavala-l%C3%B3pez-46b144207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ferzavalal/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/ferszavala">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ¡Hola! Mi nombre es María Fernanda Zavala López y soy de Aguascalientes, México. Tengo experiencia en programación, ya que estudié programación técnica en la preparatoria y recientemente completé mi carrera en Ingeniería en Inteligencia Artificial. Estoy a punto de comenzar una especialización en Calidad de Software. Actualmente, trabajo como Cloud & DevOps Engineer desde mayo de 2022.
 
@@ -13,6 +32,14 @@ Una de mis principales motivaciones es crear iniciativas que empoderen a niñas 
 Estoy emocionada de ser parte de este proyecto de verano en el MIT y espero poder contribuir con mis habilidades y conocimientos para generar un impacto positivo. ¡No dudes en contactarme si tienes alguna pregunta o si quieres conectarte!
 
 ## 🔎 Sobre Patrones Hermosos
+<div id="badges">
+  <a href="https://www.youtube.com/@patroneshermosos.oficial">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://instagram.com/patroneshermosos.oficial?igshid=MmIzYWVlNDQ5Yg==">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 Patrones Hermosos es una iniciativa interdisciplinaria que busca abordar los desafíos sociales y tecnológicos en la educación STEM para las mujeres, especialmente en el campo de la computación en un mundo en constante desarrollo. Nuestro objetivo es promover la participación activa de las mujeres en estas áreas, fomentando el interés, la confianza y el acceso equitativo a oportunidades. A través de diversas actividades y recursos, Patrones Hermosos busca inspirar y apoyar a las chicas interesadas en STEM, proporcionando un espacio donde puedan explorar sus pasiones, desarrollar habilidades relevantes y conectarse con una comunidad de mentes afines. Creemos en la importancia de crear una sociedad más equitativa, donde las mujeres tengan una representación equilibrada y una influencia significativa en el mundo de la tecnología.
 
