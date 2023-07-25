@@ -14,6 +14,17 @@ June 1st - August 1st 2023
 
 
 ## 🙋🏻‍♀️ About me
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-zavala-l%C3%B3pez-46b144207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/ferzavalal?igshid=MmIzYWVlNDQ5Yg==">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/ferszavala">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 Hello! My name is María Fernanda Zavala López, and I'm from Aguascalientes, Mexico. I have a background in programming, having studied technical programming in high school, and recently completing my degree in Artificial Intelligence Engineering. I'm about to start a specialization in Software Quality. Currently, I work as a Cloud & DevOps Engineer since May 2022.
 
