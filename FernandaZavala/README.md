@@ -7,9 +7,10 @@ June 1st - August 1st 2023
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GEXqfBczlXo">
-    <img src="https://github.com/patroneshermosos-oficial/Summer23/assets/72468795/9dfb7ca3-e34f-4146-bfc4-4fca7dbec135" alt="Video Thumbnail" width="640" height="360">
+    <img src="https://img.youtube.com/vi/GEXqfBczlXo/maxresdefault.jpg" alt="Video Thumbnail" width="640" height="360">
   </a>
 </p>
+
 
 
 ## 🙋🏻‍♀️ About me
