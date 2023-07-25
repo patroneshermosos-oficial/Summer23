@@ -28,7 +28,7 @@ June 1st - August 1st 2023
 
 Hello! My name is María Fernanda Zavala López, and I'm from Aguascalientes, Mexico. I have a background in programming, having studied technical programming in high school, and recently completing my degree in Artificial Intelligence Engineering. I'm about to start a specialization in Software Quality. Currently, I work as a Cloud & DevOps Engineer since May 2022.
 
-I've been involved with Beautiful Patterns since April 2021, contributing to the creation of mini-courses on topics like GitHub, Design Thinking, and Cryptocurrency. I also had the opportunity to organize the winter bootcamp at Universidad Panamericana in January 2023.
+I've been involved with Beautiful Patterns since April 2021, contributing to the creation of mini-courses on topics like [GitHub](https://www.youtube.com/watch?v=7d2jCvSbcrw&list=PL6N0tARLu9L59dBdg8Q96-P1WuaSu-no4&pp=iAQB), Design Thinking, and [Cryptocurrency](https://www.youtube.com/watch?v=NuAJRTq7KDU&list=PL6N0tARLu9L48Vb5QCsZSQNYCj4pxnGos&pp=iAQB). I also had the opportunity to organize the winter bootcamp at Universidad Panamericana in January 2023.
 
 One of my main motivations is to create initiatives that empower girls and women to explore the world of science without feeling intimidated, and to show them that it's within their reach. Apart from my passion for technology and education, I'm also a violinist and actively participate in my university's classical ensemble and string quartet. I'm proud to serve as the president of the Panamericana ACM-W student chapter, promoting women in engineering.
 
