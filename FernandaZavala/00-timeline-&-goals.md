@@ -1,11 +1,29 @@
 # Bitácora
 Fecha de llegada a Boston: Jueves 1 de junio
 
-## Periodo 1 - Jueves 1 de junio al Viernes 9 de junio
-#### Libro: The first 90 days - Michael Watkins
-Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/12OzBQkCDthIInqgw8sV86HxTfoWxMh8y/view?usp=sharing)
+Fecha de partida de Boston: Martes 1 de agosto
 
-#### Tarea a realizar: Tener un plan para los dos meses de estancia basado en el libro que leímos
+## Periodo 1 - Jueves 1 de junio al Viernes 9 de junio
+
+Aquí puedes encontrar el video correspondiente a esta semana: 
+
+<p align="left">
+  <a href="https://youtu.be/hwh3npTMLek">
+    <img src="https://img.youtube.com/vi/hwh3npTMLek/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+### Libro: The first 90 days - Michael Watkins
+Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/OZ52azNgrng">
+    <img src="https://img.youtube.com/vi/OZ52azNgrng/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Tarea a realizar: Tener un plan para los dos meses de estancia basado en el libro que leímos
 
 #### Plan: 
 
@@ -51,28 +69,75 @@ Evaluar tu progreso y los resultados obtenidos, identificando áreas en las que 
 
 
 ## Periodo 2 - Viernes 9 de junio al Viernes 23 de junio
-#### Libro: Range - David Epstein
 
-Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1-WHuDe6nabAYYe5wqODothRzM8Lg78C9/view?usp=sharing)
+Aquí puedes encontrar el video correspondiente a esta semana: 
 
-**Tarea a realizar: utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar**
+<p align="left">
+  <a href="https://youtu.be/02PqmWeJUOM">
+    <img src="https://img.youtube.com/vi/02PqmWeJUOM/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Libro: Range - David Epstein
+
+Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/OXDCzgv91Gs">
+    <img src="https://img.youtube.com/vi/OXDCzgv91Gs/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Tarea a realizar: utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar
 
 El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/analysis-autogpt/reporte-general.md)
 
 *Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
 ## Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
-#### Libro: The lean startup - Eric Ries
 
-Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1R2yIA1HTMx0VyYoieCtIrKbbzDuMFW0n/view?usp=sharing)
+Aquí puedes encontrar el video correspondiente a esta semana: 
 
+
+
+### Libro: The lean startup - Eric Ries
+
+Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/4hn2r35c1aE">
+    <img src="https://img.youtube.com/vi/4hn2r35c1aE/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Tarea a realizar
 
 ## Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
-#### Libro: The making of a manager - Julie Zhuo
 
-Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1JDZ85Jn_ML25Xss_q8Vf4ogxMmxUckZs/view?usp=sharing)
+Aquí puedes encontrar el video correspondiente a esta semana: 
 
-**Tarea a realizar: mini curso para mini cursos**
+<p align="left">
+  <a href="https://youtu.be/rTYe-eoT5Ws">
+    <img src="https://img.youtube.com/vi/rTYe-eoT5Ws/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Libro: The making of a manager - Julie Zhuo
+
+Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/HLwk8yLZ62Y">
+    <img src="https://img.youtube.com/vi/HLwk8yLZ62Y/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Tarea a realizar: mini curso para mini cursos
 
 De acuerdo con lo que se trabajó una semana antes en el análisis de estrategias exitosas de marketing elegí hacer un mini curso para hacer mini cursos, con el fin de que chicas fuera de Patrones Hermosos pudieran ser instructoras del tema en el que son buenas y les interesa, con tal iniciativa podríamos abordar diversas necesidades, como lo son: visibilizar a mujeres talentosas en temas que les apasionan; crear contenido sustentable en la plataforma de Patrones Hermosos sin que el equipo BP se tenga que especializar en cada uno de los temas que se nos ocurren impartir, sobretodo porque muchas veces no tenemos tiempo (ahorramos horas de grabación y tiempo de especialización en el tema); que las chicas que desean tomar los mini cursos tengan un espacio accesible y de formato sencillo en donde poder aprender de distintas tecnologías; por último, sirve como material publicitario para Patrones Hermosos
 
@@ -86,11 +151,29 @@ Si quieres ver más de cómo iba la estructura en este punto de la semana (que a
 
 
 ## Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
-#### Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
 
-Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1OJLjU2Qtqfvx-Lpbxie_B4ADNFY9VRDA/view?usp=sharing)
+Aquí puedes encontrar el video correspondiente a esta semana: 
 
-**Tarea a realizar: continuar con e instructivo para minicursos, dándo una mejor estrutura y una explicación más clara a alto nivel**
+<p align="left">
+  <a href="https://youtu.be/6k9x0tAyGH0">
+    <img src="https://img.youtube.com/vi/6k9x0tAyGH0/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+### Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
+
+Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/OOmJDI3k8l0">
+    <img src="https://img.youtube.com/vi/OOmJDI3k8l0/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+
+
+### Tarea a realizar: continuar con e instructivo para minicursos, dándo una mejor estrutura y una explicación más clara a alto nivel
 
 En esta semana, tomé la decisión de dividir el repositorio en dos: uno llamado [make-a-minicourse](https://github.com/patroneshermosos-oficial/make-a-minicourse) y el otro [supervise-a-minicourse](https://github.com/patroneshermosos-oficial/supervise-a-minicourse), dado que el primero será el que las chicas que deseen aplicar a crear un mini curso puedan tomar para tener instrucciones, recomendaciones y evaluaciones con retroalimentación claras en su proceso de aplicación; y el otro repositorio es dedicado para el equipo de Patrones Hermosos que desea apoyar en la supervisión y evaluación de los mini cursos para poder darlos de alta en la plataforma. 
 
@@ -101,9 +184,22 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 [Aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse) puedes encontrar el repositorio para hacer un mini curso (que les servirá a las aplicantes) y [aquí](https://github.com/patroneshermosos-oficial/supervise-a-minicourse) podrás encontrar el que sirve para las evaluadoras en el equipo de Patrones Hermosos.
 
 ## Periodo 6 - Miércoles 12 de julio al 19 de Julio
-#### Libro: Influence - Robert B Cialdini
 
-Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/d/1AiH_Wqie6dk3_c70bVzwkj5eAv-OKREw/view?usp=sharing)
+Aquí puedes encontrar el video correspondiente a esta semana: 
+
+
+
+### Libro: Influence - Robert B Cialdini
+
+Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/VM9PrylKOCk">
+    <img src="https://img.youtube.com/vi/VM9PrylKOCk/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
+
+### Tarea a realizar: 
 
 **Metas planteadas en la semana anterior:**
 + Automatizar la retroalimentación de los minicursos en el documento de sheets
@@ -117,11 +213,24 @@ Mi opinión del libro la puedes encontrar [aquí](https://drive.google.com/file/
 
 
 ## Periodo 7 - Miércoles 19 de Julio - Miércoles 26 de Julio
-#### Libro: The Demon-Haunted World - Carl Sagan
+
+Aquí puedes encontrar el video correspondiente a esta semana: 
+
+### Libro: The Demon-Haunted World - Carl Sagan
+
+Mi opinión del libro la puedes encontrar aquí:
+
+### Tarea a realizar: 
 
 ## Periodo 8 - Miercoles 26 de Julio - Miércoles 2 de Agosto
 
-Fecha de partida de Boston: Martes 1 de agosto
+Aquí puedes encontrar el video correspondiente a esta semana: 
+
+### Para esta semana no hay libro asignado
+
+### Tarea a realizar: 
+
+
 
 # Metas
 
