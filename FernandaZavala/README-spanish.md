@@ -2,7 +2,7 @@
 
 # Verano en MIT/Patrones Hermosos 2023 - Fernanda Zavala
 
-Del 1 de junio al 1 de agosto de 2023
+> Del 1 de junio al 1 de agosto de 2023
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GEXqfBczlXo">
@@ -55,10 +55,12 @@ En general, mi trabajo este verano se ha centrado en aprovechar la tecnología y
 
 Esta carpeta, llamada [Fernanda Zavala](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala), se encuentra dentro del repositorio [Summer23](https://github.com/patroneshermosos-oficial/Summer23/tree/main). Aquí encontrarás los siguientes archivos y carpetas:
 
-**[00-timeline-&goals.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md)** Este archivo contiene un cronograma detallado de mi progreso semana a semana. Incluye una breve descripción de las tareas realizadas, junto con comentarios o conclusiones sobre el trabajo completado. Además, proporciona enlaces para seguir el progreso realizado en otros repositorios dentro del espacio de Patrones Hermosos. También encontrarás mis reflexiones y opiniones sobre el libro asignado para la lectura de cada semana. Por último, el archivo concluye con una sección que refleja los aprendizajes generales obtenidos durante todo el verano.
+**[00-timeline.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline.md)** Este archivo contiene un cronograma detallado de mi progreso semana a semana. Incluye una breve descripción de las tareas realizadas, junto con comentarios o conclusiones sobre el trabajo completado. Además, proporciona enlaces para seguir el progreso realizado en otros repositorios dentro del espacio de Patrones Hermosos. También encontrarás mis reflexiones y opiniones sobre el libro asignado para la lectura de cada semana. Por último, el archivo concluye con una sección que refleja los aprendizajes generales obtenidos durante todo el verano.
 
-**[01-videos-progress-&-books.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-videos-progress-%26-books.md)** En este archivo encontrarás enlaces directos a mis comentarios en cada período de trabajo y a los libros que he leído. Esto sirve como una referencia práctica para acceder al contenido específico y al progreso realizado durante el verano.
+**[01-goals-&-learninglessons.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-goals-%26-learninglessons.md)** En este archivo encontrarás una compilación de mis metas, logros, reflexiones y enseñanzas.
 
 **[carpeta analysis-autogpt:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** Esta carpeta sirve como anexo al trabajo realizado durante los períodos iniciales. Para obtener una descripción más detallada de su contenido, consulta el archivo [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md).
 
 Siéntete libre de explorar estos archivos y carpetas para obtener una comprensión completa de mi trabajo, progreso
+
+> 🔡 Language Disclosure: The majority of the content in this repository and the associated videos is in Spanish, as it is my native language and the language I worked with for the Patrones Hermosos initiative this summer. However, I value diverse perspectives and feedback. If you would like to see the material in English or provide feedback to help translate it, please feel free to do so. Your input is greatly appreciated in making this content accessible to a wider audience. Thank you!
