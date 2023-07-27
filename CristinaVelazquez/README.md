@@ -16,7 +16,7 @@ The primary goals of my project are:
 ### Establishing School Relationships
 
 - Conducted research to identify schools in Aguascalientes with girls in different age groups interested in STEM.
-- Initiated contact and started forming partnerships with Triana and Marista to explore potential collaboration opportunities.
+- Initiated contact and started forming partnerships with Triana to explore potential collaboration opportunities.
 - Organized initial meetings to discuss the mutual benefits and goals of our collaboration.
 
 ### Course Development Guidelines
@@ -32,12 +32,13 @@ The repositories used are organized as follows:
 - **/school-relationships**: Contains documentation, contact information, and progress updates related to establishing relationships with schools in Aguascalientes.
 - **/course-guidelines**: Includes the guidelines for creating a new course, along with any supporting materials and resources.
 
+You can find all the weekly work I did during my summer collaboration with BP in this file. It also contains information of all the books read during the summer and what I think about them.
+- **[Weekly Work Report](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/WorkReport.md)**
+
 
 ## Contribution and Feedback
 
 I welcome any contributions or feedback related to the project. If you have suggestions or would like to collaborate, please feel free to create an issue or reach out to me directly.
-
-
 
 
 
