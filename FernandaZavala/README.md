@@ -1,4 +1,4 @@
-> [Spanish version](https://github.com/patroneshermosos-oficial/Summer23/blob/main/README-spanish.md)
+> [Spanish version](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/README-spanish.md)
 
 # Summer at MIT/Beautiful Patterns 2023 - Fernanda Zavala
 
