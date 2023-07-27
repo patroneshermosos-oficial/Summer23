@@ -20,7 +20,7 @@
 
 - Contacted a teacher from Triana School to initiate a more formal relationship between BP and Triana.
 - Discussed the mutual benefits of collaboration and explored strategies to support girls' interests in STEM areas.
-- Agreed to maintain regular communication throughout the summer to further develop the collaboration and identify specific initiatives.
+- Agreed to maintain regular communication throughout the summer to develop the collaboration further and identify specific initiatives.
 
 ### Tasks
 
@@ -88,9 +88,25 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 - Book 5: The coddling of the american mind - Greg Lukianoff and Jonathan Haidt [My opinion](link).
 
+
+
 ## Week 6: July 10 - July 14
+
+### Book of the week
+
+- Book 6: Influence - Robert B Cialdini [My opinion](link).
+
+
 
 ## Week 7: July 17 - July 21
 
+### Book of the week
+
+- Book 7: The Demon-Haunted World - Greg Lukianoff and Jonathan Haidt [My opinion](link).
+
+
+
 ## Week 8: July 24 - July 28
+
+  
 
