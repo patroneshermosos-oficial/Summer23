@@ -2,7 +2,7 @@
 
 # Summer at MIT/Beautiful Patterns 2023 - Fernanda Zavala
 
-June 1st - August 1st 2023
+> June 1st - August 1st 2023
 
 
 <p align="center">
@@ -58,9 +58,9 @@ Overall, my work this summer has focused on leveraging technology and educationa
 
 This folder, named [Fernanda Zavala](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala), is located within the [Summer23](https://github.com/patroneshermosos-oficial/Summer23/tree/main) repository. Here, you will find the following files and folders:
 
-**[00-timeline-&-goals.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md)** This file contains a detailed timeline of my progress week by week. It includes a brief description of the tasks accomplished, along with comments or conclusions about the work completed. Additionally, it provides links to track the progress made in other repositories within the Patrones Hermosos space. Furthermore, you will find my thoughts and opinions on the book assigned for each week's reading. Lastly, the file concludes with a section that reflects on the overall learnings gained throughout the summer.
+**[00-timeline.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline.md)** This file contains a detailed timeline of my progress week by week. It includes two videos for each period of work and a brief description of the tasks accomplished, along with comments or conclusions about the work completed. Additionally, it provides links to track the progress made in other repositories within the Patrones Hermosos space. 
 
-**[01-videos-progress-&-books.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-videos-progress-%26-books.md)** In this file, you will find direct links to my comments on each work period and the books I have read. This serves as a convenient reference to access the specific content and progress made during the summer.
+**[01-goals-&-learninglessons.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-goals-%26-learninglessons.md)** In this file, you will find a compilation of my goals, achievements, reflections, and teachings
 
 **[analysis-autogpt folder:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** This folder serves as an annex to the work completed during the initial periods. For a more detailed description of its contents, please refer to the [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md) file.
 
