@@ -1,25 +1,11 @@
-# Cronología, metas y enseñanzas
-> 🧳 Fecha de llegada a Boston: Jueves 1 de junio | Fecha de partida: Martes 1 de agosto
-
-# 🏴󠁣󠁯󠁭󠁥󠁴󠁿 Metas
-
-+ Contribuir al desarrollo de Patrones Hermosos: Mi objetivo principal para este verano es aportar mis habilidades en inteligencia artificial y desarrollo de software para mejorar la plataforma y las iniciativas de Patrones Hermosos. Quiero crear contenido valioso y relevante para las mujeres interesadas en STEM, y colaborar con un equipo diverso para hacer crecer esta comunidad educativa.
-
-+ Promover la educación STEM para mujeres: Estoy emocionada de ser parte de un proyecto que busca inspirar y apoyar a las niñas y mujeres en el campo de la ciencia y tecnología. Quiero ayudar a fomentar su confianza y brindarles acceso equitativo a oportunidades, creando un ambiente inclusivo donde todas puedan explorar y desarrollar su interés en STEM.
-
-+ Desarrollar mis habilidades profesionales: Durante mi tiempo en el MIT y con Patrones Hermosos, espero mejorar mis habilidades técnicas y de liderazgo. Quiero aprender más sobre inteligencia artificial y gestión de proyectos, lo que me permitirá crecer profesionalmente y enfrentar nuevos desafíos con confianza.
-
-+ Crear un impacto positivo: Me motiva hacer una diferencia en la vida de las personas, especialmente en las mujeres que participan en las iniciativas de Patrones Hermosos. Quiero contribuir a una sociedad más equitativa y diversa en el campo de la tecnología y la ciencia, y trabajar en proyectos que tengan un impacto positivo en la comunidad.
-
-+ Experimentar vivir sola en otro país: Este verano, tendré la emocionante oportunidad de vivir sola por primera vez en Boston, Massachusetts. Estoy ansiosa por aprender a adaptarme a una nueva cultura y entorno, lo que seguramente será un proceso de crecimiento personal. Esta experiencia me permitirá desarrollar habilidades de independencia y resiliencia, lo que complementará mi desarrollo profesional y personal.
-
-+ Tener un espacio de registro de mi trabajo: He creado un repositorio en GitHub llamado ["Summer23/FernandaZavala"](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala) donde documentaré mi trabajo durante este verano. Aquí, cualquier persona interesada podrá ver un registro detallado de los proyectos en los que estaré trabajando, incluso si no tienen un contexto previo sobre Patrones Hermosos. Quiero que este repositorio sea una muestra de mi progreso y un lugar donde compartir mis aprendizajes con la comunidad.
 
 # 📑 Bitácora de trabajo
+> 🧳 Fecha de llegada a Boston: Jueves 1 de junio | Fecha de partida: Martes 1 de agosto
 
-## ➡️ Periodo 1 | 01/junio - 09/junio | Adaptándome a Boston y conociendo el MIT
+## ➡️ Periodo 1. Adaptándome a Boston y conociendo el MIT
+> 01/junio - 09/junio
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
 <p align="left">
   <a href="https://youtu.be/hwh3npTMLek">
@@ -27,8 +13,7 @@ Aquí puedes encontrar el video correspondiente a esta semana:
   </a>
 </p>
 
-### 📖 Libro: The first 90 days - Michael Watkins
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro "The first 90 days" de Michael Watkins la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/OZ52azNgrng">
@@ -37,9 +22,7 @@ Mi opinión del libro la puedes encontrar aquí:
 </p>
 
 
-### Tarea a realizar: Tener un plan para los dos meses de estancia basado en el libro que leímos
-
-#### Plan: 
+📝 **Tarea a realizar:** Tener un plan para los dos meses de estancia basado en el libro que leímos, el cual se muestra a continuación:
 
 *Semana 1:*
 
@@ -60,8 +43,6 @@ Realizar un primer proyecto pequeño utilizando Solidity y Ethereum, aplicando l
 Revisar y refinar tus habilidades en JavaScript y Python.
 Participar activamente en las actividades de "Patrones Hermosos", brindando tutorías y apoyo a las niñas interesadas en STEM.
 
-**Segundo mes:**
-
 *Semana 5-6:*
 
 Profundizar en el desarrollo de contratos inteligentes utilizando Solidity y Ethereum.
@@ -78,13 +59,14 @@ Colaborar con otros miembros del MIT y de la asociación para generar ideas y ll
 Realizar una revisión exhaustiva de los temas estudiados y de los proyectos realizados durante los dos meses.
 Evaluar tu progreso y los resultados obtenidos, identificando áreas en las que puedas mejorar y estableciendo un plan para el futuro.
 
-*Comentario al 12/julio/2023: me di cuenta de que este plan lo hice de acuerdo a las tecnologías que en ese momento pensaba que íbamos a utilizar, y considernado que todas estaríamos involucradas con todas las tecnologías, sin embargo el plan cambió de acuerdo a los intereses y las necesidades del proyecto, particularmente dado el análisis que hice con auto-gpt en el Periodo 2*
+***Comentario al 12/julio/2023**: me di cuenta de que este plan lo hice de acuerdo a las tecnologías que en ese momento pensaba que íbamos a utilizar, y considernado que todas estaríamos involucradas con todas las tecnologías, sin embargo el plan cambió de acuerdo a los intereses y las necesidades del proyecto, particularmente dado el análisis que hice con auto-gpt en el Periodo 2*
 
 
 
-## ➡️ Periodo 2 | 09/junio - 23/junio | Generative AI para estrategias de marketing y creación de comunidad
+## ➡️ Periodo 2. Generative AI para estrategias de marketing y creación de comunidad
+> 09/junio - 23/junio
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
 <p align="left">
   <a href="https://youtu.be/02PqmWeJUOM">
@@ -92,10 +74,7 @@ Aquí puedes encontrar el video correspondiente a esta semana:
   </a>
 </p>
 
-
-### 📖 Libro: Range - David Epstein
-
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro "Range" de David Epstein la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/OXDCzgv91Gs">
@@ -104,15 +83,16 @@ Mi opinión del libro la puedes encontrar aquí:
 </p>
 
 
-### Tarea a realizar: utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar
+📝 **Tarea a realizar:** utilizar Auto-GPT y Langchain para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos, con actividades que se puedan automatizar
 
 El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/analysis-autogpt/reporte-general.md)
 
 *Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
-## ➡️ Periodo 3 | 23/junio - 28/junio | Eligiendo una iniciativa
+## ➡️ Periodo 3. Eligiendo una iniciativa
+> 23/junio - 28/junio
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
 <p align="left">
   <a href="https://youtu.be/-wdKoTlR4VI">
@@ -120,10 +100,7 @@ Aquí puedes encontrar el video correspondiente a esta semana:
   </a>
 </p>
 
-
-### 📖 Libro: The lean startup - Eric Ries
-
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro "The lean startup" de Eric Ries la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/4hn2r35c1aE">
@@ -132,7 +109,7 @@ Mi opinión del libro la puedes encontrar aquí:
 </p>
 
 
-### Tarea a realizar: elegir una iniciativa que cumpliera con varios propósitos
+📝 **Tarea a realizar:** elegir una iniciativa que cumpliera con varios propósitos
 
 Al hacer el análisis de las estrategias de marketing y creación de comunidad basadas en cómo operan otras empresas e instituciones, me di cuenta que eran diversas las necesidades por cubrir; en cuanto a público al que queremos llegar, estrategias y las necesidades de las redes sociales (más de esto lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/analysis-autogpt/reporte-general.md)). 
 
@@ -141,7 +118,7 @@ Primero decidí que sería necesario concentrarnos en aquellas que cumplieran co
 
 ## ➡️ Periodo 4 | 28/junio - 05/julio | Mini curso para mini cursos
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
 <p align="left">
   <a href="https://youtu.be/rTYe-eoT5Ws">
@@ -149,10 +126,7 @@ Aquí puedes encontrar el video correspondiente a esta semana:
   </a>
 </p>
 
-
-### 📖 Libro: The making of a manager - Julie Zhuo
-
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro "The making of a manager" de Julie Zhuo la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/HLwk8yLZ62Y">
@@ -161,7 +135,7 @@ Mi opinión del libro la puedes encontrar aquí:
 </p>
 
 
-### Tarea a realizar: mini curso para mini cursos
+📝 **Tarea a realizar:** mini curso para mini cursos
 
 De acuerdo con lo que se trabajó una semana antes en el análisis de estrategias exitosas de marketing elegí hacer un mini curso para hacer mini cursos, con el fin de que chicas fuera de Patrones Hermosos pudieran ser instructoras del tema en el que son buenas y les interesa, con tal iniciativa podríamos abordar diversas necesidades, como lo son: visibilizar a mujeres talentosas en temas que les apasionan; crear contenido sustentable en la plataforma de Patrones Hermosos sin que el equipo BP se tenga que especializar en cada uno de los temas que se nos ocurren impartir, sobretodo porque muchas veces no tenemos tiempo (ahorramos horas de grabación y tiempo de especialización en el tema); que las chicas que desean tomar los mini cursos tengan un espacio accesible y de formato sencillo en donde poder aprender de distintas tecnologías; por último, sirve como material publicitario para Patrones Hermosos
 
@@ -176,7 +150,7 @@ Si quieres ver más de cómo iba la estructura en este punto de la semana (que a
 
 ## ➡️ Periodo 5 | 05/julio - 12/julio | Evolución de la guía para mini cursos
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
 <p align="left">
   <a href="https://youtu.be/6k9x0tAyGH0">
@@ -184,10 +158,7 @@ Aquí puedes encontrar el video correspondiente a esta semana:
   </a>
 </p>
 
-
-### 📖 Libro: The coddling of the american mind - Greg Lukianoff & Jonathan Haidt
-
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/OOmJDI3k8l0">
@@ -195,9 +166,7 @@ Mi opinión del libro la puedes encontrar aquí:
   </a>
 </p>
 
-
-
-### Tarea a realizar: continuar con e instructivo para minicursos, dándo una mejor estrutura y una explicación más clara a alto nivel
+📝 **Tarea a realizar:** continuar con e instructivo para minicursos, dándo una mejor estrutura y una explicación más clara a alto nivel
 
 En esta semana, tomé la decisión de dividir el repositorio en dos: uno llamado [make-a-minicourse](https://github.com/patroneshermosos-oficial/make-a-minicourse) y el otro [supervise-a-minicourse](https://github.com/patroneshermosos-oficial/supervise-a-minicourse), dado que el primero será el que las chicas que deseen aplicar a crear un mini curso puedan tomar para tener instrucciones, recomendaciones y evaluaciones con retroalimentación claras en su proceso de aplicación; y el otro repositorio es dedicado para el equipo de Patrones Hermosos que desea apoyar en la supervisión y evaluación de los mini cursos para poder darlos de alta en la plataforma. 
 
@@ -209,7 +178,7 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 
 ## ➡️ Periodo 6 | 12/julio - 19/julio | Formato y orden 
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
 <p align="left">
   <a href="https://youtu.be/p0pHo9X5UoQ">
@@ -217,10 +186,7 @@ Aquí puedes encontrar el video correspondiente a esta semana:
   </a>
 </p>
 
-
-### 📖 Libro: Influence - Robert B Cialdini
-
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro "Influence" de Robert B Cialdini la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/VM9PrylKOCk">
@@ -228,7 +194,7 @@ Mi opinión del libro la puedes encontrar aquí:
   </a>
 </p>
 
-### Tarea a realizar: 
+📝 **Tarea a realizar:** 
 
 **Metas planteadas en la semana anterior:**
 + Automatizar la retroalimentación de los minicursos en el documento de sheets
@@ -243,11 +209,9 @@ Mi opinión del libro la puedes encontrar aquí:
 
 ## ➡️ Periodo 7 | 19/julio - 26/julio | Evolución de la guía para mini cursos
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
-### 📖 Libro: The Demon-Haunted World - Carl Sagan
-
-Mi opinión del libro la puedes encontrar aquí:
+📖 Mi opinión del libro "The Demon-Haunted World" de Carl Sagan la puedes encontrar aquí:
 
 <p align="left">
   <a href="https://youtu.be/xEdm51FDPNM">
@@ -255,53 +219,13 @@ Mi opinión del libro la puedes encontrar aquí:
   </a>
 </p>
 
-### Tarea a realizar: 
+📝 **Tarea a realizar:**
 
 ## ➡️ Periodo 8 | 26/julio - 01/agosto | Automatizaciones y propuestas de seguimiento
 
-Aquí puedes encontrar el video correspondiente a esta semana: 
+📹 Aquí puedes encontrar el video correspondiente a esta semana: 
 
-### 📖 Para esta semana no hay libro asignado
+📖 Para esta semana no hay libro asignado
 
-### Tarea a realizar: 
-
-
-
-# Logros y enseñanzas generales hacia el final del verano
-
-1. **Contribución significativa a Patrones Hermosos:** Durante el verano, logré realizar un aporte significativo al desarrollo de Patrones Hermosos. Participé en la creación de nuevos mini cursos, en la mejora de la plataforma y en la implementación de herramientas de inteligencia artificial para optimizar la experiencia de las usuarias. Mi trabajo ayudó a enriquecer el contenido educativo y a fortalecer la comunidad de mujeres interesadas en STEM.
-
-2. **Promoción de la educación STEM:** Como parte de mi involucramiento en Patrones Hermosos, tuve la oportunidad de promover la educación STEM para mujeres a través de la enseñanza en la creación de contenido, con la motivación de inspirar a las niñas a explorar su pasión por la ciencia y la tecnología. 
-
-3. **Crecimiento profesional y habilidades técnicas:** Durante mi tiempo en MIT, pude expandir mis conocimientos en inteligencia artificial y tecnologías en la nube. Participé en proyectos de gran envergadura que me permitieron enfrentar desafíos técnicos y desarrollar habilidades de resolución de problemas. Además, mejoré mis capacidades de liderazgo y trabajo en equipo al colaborar con colegas de diferentes disciplinas.
-
-4. **Impacto positivo en la comunidad:** Uno de mis mayores logros fue ver cómo mi trabajo tuvo un impacto positivo en la comunidad de Patrones Hermosos. Recibí comentarios y testimonios de mujeres que se sintieron inspiradas y empoderadas por los recursos y mini cursos que ayudé a desarrollar. Saber que mi trabajo ha contribuido a crear un ambiente más inclusivo y accesible en STEM es una gran satisfacción personal.
-
-## Enseñanzas y Reflexiones:
-
-1. **La importancia de la colaboración y diversidad:** Este verano me enseñó que trabajar en un entorno interdisciplinario y diverso es clave para lograr soluciones creativas y completas. La colaboración con personas con diferentes perspectivas y habilidades enriquece los proyectos y fomenta un ambiente de aprendizaje continuo.
-
-2. **La perseverancia en el proceso de aprendizaje:** En mi experiencia, enfrenté retos técnicos y conceptuales que requirieron tiempo y esfuerzo para superar. Aprendí que el proceso de aprendizaje es una trayectoria de crecimiento constante, y que la perseverancia y la curiosidad son fundamentales para alcanzar nuevos conocimientos y habilidades.
-
-3. **La importancia de la autogestión:** Durante mi tiempo en MIT y Patrones Hermosos, enfrentarme a proyectos con autonomía me enseñó a tomar decisiones proactivas, buscar oportunidades por mí misma y desarrollar habilidades de resolución de problemas y pensamiento crítico. Aprendí a confiar en mi juicio, ser adaptable y organizarme eficientemente, lo que me ha preparado para enfrentar desafíos y asumir la responsabilidad de mi crecimiento profesional y personal.
-
-4. **El poder de la tecnología para el cambio positivo:** Durante mi trabajo con Patrones Hermosos, pude presenciar cómo la tecnología puede ser una herramienta poderosa para crear un cambio positivo en la sociedad. La combinación de tecnología y educación puede abrir oportunidades y empoderar a las mujeres en campos donde históricamente han estado subrepresentadas.
-
-5. **La importancia de documentar el progreso:** Mantener un registro detallado de mi trabajo en el repositorio "Summer23" resultó ser una práctica valiosa. Esta documentación no solo me ayudó a mantener un registro organizado de mis proyectos, sino que también permitió compartir mis logros y aprendizajes con la comunidad.
-
-## Enseñanzas de los libros leídos:
-
-1. **"The First 90 Days":** Aprendí a enfocar mis primeros días en un nuevo proyecto o trabajo para establecer una base sólida y lograr una transición exitosa.
-
-2. **"Range":** Este libro me mostró cómo la diversidad de experiencias y conocimientos puede ser un activo valioso en mi desarrollo profesional.
-
-3. **"The Lean Startup":** La metodología de inicio ágil me enseñó a probar ideas rápidamente y adaptarme según los resultados.
-
-4. **"The Making of a Manager":** Descubrí la importancia de liderar con empatía y crear un ambiente de apoyo para mi equipo.
-
-5. **"The Coddling of the American Mind":** Este libro me hizo reflexionar sobre la importancia de promover el pensamiento crítico y el debate saludable en la sociedad.
-
-6. **"Influence":** Aprendí sobre las técnicas de persuasión y cómo reconocerlas para tomar decisiones informadas.
-
-7. **"The Demon-Haunted World":** La importancia de la ciencia y el escepticismo en la búsqueda de la verdad y la comprensión del mundo.
+📝 **Tarea a realizar:** 
 
