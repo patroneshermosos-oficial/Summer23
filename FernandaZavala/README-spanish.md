@@ -59,7 +59,7 @@ Esta carpeta, llamada [Fernanda Zavala](https://github.com/patroneshermosos-ofic
 
 **[01-goals-&-learninglessons.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-goals-%26-learninglessons.md)** En este archivo encontrarás una compilación de mis metas, logros, reflexiones y enseñanzas.
 
-**[carpeta analysis-autogpt:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** Esta carpeta sirve como anexo al trabajo realizado durante los períodos iniciales. Para obtener una descripción más detallada de su contenido, consulta el archivo [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md).
+**[carpeta analysis-autogpt:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** Esta carpeta sirve como anexo al trabajo realizado durante los períodos iniciales. Para obtener una descripción más detallada de su contenido, consulta el archivo [00-timeline.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline.md).
 
 Siéntete libre de explorar estos archivos y carpetas para obtener una comprensión completa de mi trabajo, progreso
 
