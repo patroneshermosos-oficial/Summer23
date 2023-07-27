@@ -1,6 +1,8 @@
 # Metas y enseñanzas
 
 ## 🏴󠁣󠁯󠁭󠁥󠁴󠁿 Metas
+> 01/junio/2023
+
 + Contribuir al desarrollo de Patrones Hermosos: Mi objetivo principal para este verano es aportar mis habilidades en inteligencia artificial y desarrollo de software para mejorar la plataforma y las iniciativas de Patrones Hermosos. Quiero crear contenido valioso y relevante para las mujeres interesadas en STEM, y colaborar con un equipo diverso para hacer crecer esta comunidad educativa.
 
 + Promover la educación STEM para mujeres: Estoy emocionada de ser parte de un proyecto que busca inspirar y apoyar a las niñas y mujeres en el campo de la ciencia y tecnología. Quiero ayudar a fomentar su confianza y brindarles acceso equitativo a oportunidades, creando un ambiente inclusivo donde todas puedan explorar y desarrollar su interés en STEM.
@@ -15,6 +17,7 @@
 
 
 ## 🗒️ Logros y enseñanzas generales hacia el final del verano
+> 27/julio/2023
 
 1. **Contribución significativa a Patrones Hermosos:** Durante el verano, logré realizar un aporte significativo al desarrollo de Patrones Hermosos. Participé en la creación de nuevos mini cursos, en la mejora de la plataforma y en la implementación de herramientas de inteligencia artificial para optimizar la experiencia de las usuarias. Mi trabajo ayudó a enriquecer el contenido educativo y a fortalecer la comunidad de mujeres interesadas en STEM.
 
@@ -24,7 +27,7 @@
 
 4. **Impacto positivo en la comunidad:** Uno de mis mayores logros fue ver cómo mi trabajo tuvo un impacto positivo en la comunidad de Patrones Hermosos. Recibí comentarios y testimonios de mujeres que se sintieron inspiradas y empoderadas por los recursos y mini cursos que ayudé a desarrollar. Saber que mi trabajo ha contribuido a crear un ambiente más inclusivo y accesible en STEM es una gran satisfacción personal.
 
-## 🤔 Enseñanzas y Reflexiones:
+### 🤔 Enseñanzas y Reflexiones:
 
 1. **La importancia de la colaboración y diversidad:** Este verano me enseñó que trabajar en un entorno interdisciplinario y diverso es clave para lograr soluciones creativas y completas. La colaboración con personas con diferentes perspectivas y habilidades enriquece los proyectos y fomenta un ambiente de aprendizaje continuo.
 
@@ -36,7 +39,7 @@
 
 5. **La importancia de documentar el progreso:** Mantener un registro detallado de mi trabajo en el repositorio "Summer23" resultó ser una práctica valiosa. Esta documentación no solo me ayudó a mantener un registro organizado de mis proyectos, sino que también permitió compartir mis logros y aprendizajes con la comunidad.
 
-## 📖 Enseñanzas de los libros leídos:
+### 📖 Enseñanzas de los libros leídos:
 
 1. **"The First 90 Days":** Aprendí a enfocar mis primeros días en un nuevo proyecto o trabajo para establecer una base sólida y lograr una transición exitosa.
 
