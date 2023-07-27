@@ -62,7 +62,7 @@ This folder, named [Fernanda Zavala](https://github.com/patroneshermosos-oficial
 
 **[01-goals-&-learninglessons.md:](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/01-goals-%26-learninglessons.md)** In this file, you will find a compilation of my goals, achievements, reflections, and teachings
 
-**[analysis-autogpt folder:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** This folder serves as an annex to the work completed during the initial periods. For a more detailed description of its contents, please refer to the [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md) file.
+**[analysis-autogpt folder:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** This folder serves as an annex to the work completed during the initial periods. For a more detailed description of its contents, please refer to the [00-timeline.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline.md) file.
 
 Feel free to explore these files and folders to gain a comprehensive understanding of my work, progress, and insights gathered throughout the summer.
 
