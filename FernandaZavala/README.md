@@ -65,3 +65,8 @@ This folder, named [Fernanda Zavala](https://github.com/patroneshermosos-oficial
 **[analysis-autogpt folder:](https://github.com/patroneshermosos-oficial/Summer23/tree/main/FernandaZavala/analysis-autogpt)** This folder serves as an annex to the work completed during the initial periods. For a more detailed description of its contents, please refer to the [00-timeline-&-goals.md](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/00-timeline-%26-goals.md) file.
 
 Feel free to explore these files and folders to gain a comprehensive understanding of my work, progress, and insights gathered throughout the summer.
+
+
+
+> 🔡 Language Disclosure: The majority of the content in this repository and the associated videos is in Spanish, as it is my native language and the language I worked with for the Patrones Hermosos initiative this summer. However, I value diverse perspectives and feedback. If you would like to see the material in English or provide feedback to help translate it, please feel free to do so. Your input is greatly appreciated in making this content accessible to a wider audience. Thank you!
+
