@@ -3,7 +3,7 @@ Fecha de llegada a Boston: Jueves 1 de junio
 
 Fecha de partida de Boston: Martes 1 de agosto
 
-## Periodo 1 - Jueves 1 de junio al Viernes 9 de junio
+## Periodo 1 | 01/junio - 09/junio | Adaptándome a Boston y conociendo el MIT
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -68,7 +68,7 @@ Evaluar tu progreso y los resultados obtenidos, identificando áreas en las que 
 
 
 
-## Periodo 2 - Viernes 9 de junio al Viernes 23 de junio
+## Periodo 2 | 09/junio - 23/junio | Generative AI para estrategias de marketing y creación de comunidad
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -96,7 +96,7 @@ El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patrones
 
 *Side note: el libro de Range resultó de gran ayuda (tal vez a nivel inconsciente) del análisis que realicé para determinar estrategias de marketing y creación de comunidad para Patrones Hermosos. Mi proceso de pensamiento fue determinar el mercado objetivo que deseamos cubrir (Latinoamérica) y segmenté el problema en investigar acerca de empresas y asociaciones o instituciones con estrategias exitosas de marketing dentro y fuera de LATAM, con el objetivo de encontrar diferencias en las empresas y  a lo que se dedican, para cada vez especializarlo más hasta que llegué a empresas/asociaciones/instituciones similares a Patrones Hermosos. Con todo lo anterior fue más sencillo hacer las preguntas adecuadas para obtener las eficiencias y deficiencias de la estrategia que actualmente abordamos; así como identificar iniciativas que nos llevarían a alcanzar nuestros objetivos, además de aquellas que cumplen con más de uno de ellos al mismo tiempo. Las analogías y el llevar a comparar cosas que aparentemente no tienen relación, fue un gran apoyo*
 
-## Periodo 3 - Viernes 23 de junio al Miércoles 28 de junio
+## Periodo 3 | 23/junio - 28/junio | Eligiendo una iniciativa
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -113,9 +113,14 @@ Mi opinión del libro la puedes encontrar aquí:
 </p>
 
 
-### Tarea a realizar
+### Tarea a realizar: elegir una iniciativa que cumpliera con varios propósitos
 
-## Periodo 4 - Miércoles 28 de junio al Miércoles 5 de julio
+Al hacer el análisis de las estrategias de marketing y creación de comunidad basadas en cómo operan otras empresas e instituciones, me di cuenta que eran diversas las necesidades por cubrir; en cuanto a público al que queremos llegar, estrategias y las necesidades de las redes sociales (más de esto lo puedes encontrar [aquí](https://github.com/patroneshermosos-oficial/Summer23/blob/main/FernandaZavala/analysis-autogpt/reporte-general.md)). 
+
+Primero decidí que sería necesario concentrarnos en aquellas que cumplieran con más de un objetivo al mismo tiempo, o como comunmente decimos en México: "que mataran varios pájaros de un tiro", por lo que elegí hacer un "mini curso para mini cursos" que fue como decidí llamarlo en ese momento, con el propósito de continuar con una tarea que ya hacíamos en Patrones Hermosos pero sin la necesidad de que el equipo se tuviera que especializar en cada tema y creáramos comunidad a través de nuevas chicas que desearan enseñar de algún tema en el que se sintieran expertas. 
+
+
+## Periodo 4 | 28/junio - 05/julio | Mini curso para mini cursos
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -150,7 +155,7 @@ Si quieres ver más de cómo iba la estructura en este punto de la semana (que a
 *Side note: compartí el avancé de mi proyecto con más chicas en el equipo BP y me dieron algunas recomendaciones, como: dar contexto e introducción de Patrones Hermosos a las chicas que serían instructoras de los mini cursos, añadir una fase de pre-revisión para dar oportunidad a que las aplicantes manden un video "demo" y poderles dar retroalimentación antes de que graben el resto del curso*
 
 
-## Periodo 5 - Miércoles 5 de julio al Miércoles 12 de julio
+## Periodo 5 | 05/julio - 12/julio | Evolución de la guía para mini cursos
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -183,7 +188,7 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 
 [Aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse) puedes encontrar el repositorio para hacer un mini curso (que les servirá a las aplicantes) y [aquí](https://github.com/patroneshermosos-oficial/supervise-a-minicourse) podrás encontrar el que sirve para las evaluadoras en el equipo de Patrones Hermosos.
 
-## Periodo 6 - Miércoles 12 de julio al 19 de Julio
+## Periodo 6 | 12/julio - 19/julio | Formato y orden 
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -212,7 +217,7 @@ Mi opinión del libro la puedes encontrar aquí:
 + Automatiza con IA para calidad de audio y video  
 
 
-## Periodo 7 - Miércoles 19 de Julio - Miércoles 26 de Julio
+## Periodo 7 | 19/julio - 26/julio | Evolución de la guía para mini cursos
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
@@ -222,7 +227,7 @@ Mi opinión del libro la puedes encontrar aquí:
 
 ### Tarea a realizar: 
 
-## Periodo 8 - Miercoles 26 de Julio - Miércoles 2 de Agosto
+## Periodo 8 | 26/julio - 01/agosto | Automatizaciones y propuestas de seguimiento
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
