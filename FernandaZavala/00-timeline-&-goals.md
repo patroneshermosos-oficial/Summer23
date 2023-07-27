@@ -100,6 +100,11 @@ El reporte de esta tarea lo puedes encontrar [aquí](https://github.com/patrones
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
+<p align="left">
+  <a href="https://youtu.be/-wdKoTlR4VI">
+    <img src="https://img.youtube.com/vi/-wdKoTlR4VI/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
 
 
 ### Libro: The lean startup - Eric Ries
@@ -192,6 +197,11 @@ Trabajé en poder tener un README.md adecuado para cada repositorio, dando el co
 
 Aquí puedes encontrar el video correspondiente a esta semana: 
 
+<p align="left">
+  <a href="https://youtu.be/p0pHo9X5UoQ">
+    <img src="https://img.youtube.com/vi/p0pHo9X5UoQ/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
 
 
 ### Libro: Influence - Robert B Cialdini
@@ -224,6 +234,12 @@ Aquí puedes encontrar el video correspondiente a esta semana:
 ### Libro: The Demon-Haunted World - Carl Sagan
 
 Mi opinión del libro la puedes encontrar aquí:
+
+<p align="left">
+  <a href="https://youtu.be/xEdm51FDPNM">
+    <img src="https://img.youtube.com/vi/xEdm51FDPNM/maxresdefault.jpg" alt="Video Thumbnail" width="320" height="180">
+  </a>
+</p>
 
 ### Tarea a realizar: 
 
