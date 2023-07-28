@@ -88,7 +88,16 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 - Book 5: The coddling of the american mind - Greg Lukianoff and Jonathan Haidt [My opinion](link).
 
+### Accomplishments
 
+- Collaborated in the selection of course topics and content for the Generative AI course.
+- Conducted extensive research to gather relevant materials and resources for the course development.
+
+### Tasks
+
+1. **Research and Material Gathering**: Conducted in-depth research to identify high-quality materials and resources that align with the course objectives.
+
+2. **Repository Setup**: Established a dedicated repository to compile the course guidelines and materials, ensuring easy access and collaboration.
 
 ## Week 6: July 10 - July 14
 
@@ -96,7 +105,19 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 - Book 6: Influence - Robert B Cialdini [My opinion](link).
 
+### Accomplishments
 
+- Developed comprehensive guidelines for the Generative AI course, outlining the structure, learning objectives, and suggested activities.
+
+### Challenges
+
+- Addressed potential challenges in the course development process, ensuring the guidelines are clear and user-friendly for the girls collaborating with BP.
+
+### Tasks
+
+1. **Course Guideline Development**: Created detailed and structured guidelines for the Generative AI course, providing step-by-step instructions for BP girls to use in course creation.
+
+2. **Repository Completion**: Updated the repository with the finalized course guidelines and materials, ready for use by BP girls.
 
 ## Week 7: July 17 - July 21
 
@@ -104,9 +125,18 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 - Book 7: The Demon-Haunted World - Greg Lukianoff and Jonathan Haidt [My opinion](link).
 
+### Accomplishments
 
+- Successfully completed the repository with comprehensive guidelines for the Generative AI course, empowering BP girls to create their own courses.
+
+### Tasks
+
+2. **Reflection and Evaluation**: Reflecting on the course development process, identified areas of improvement and opportunities for future projects.
 
 ## Week 8: July 24 - July 28
 
+## Conclusion
+
+Throughout the summer, I actively participated in the development of a Generative AI course, providing BP girls with the tools and resources to create their own courses in the future. Additionally, I collaborated in the establishment of partnerships between MIT and schools in Aguascalientes, promoting knowledge exchange and empowering students in the region.
   
 
