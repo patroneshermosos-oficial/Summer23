@@ -29,7 +29,7 @@ The primary goals of my project are:
 
 The repositories used are organized as follows:
 
-- **/school-relationships**: Contains documentation, contact information, and progress updates related to establishing relationships with schools in Aguascalientes.
+- **[school-relationships](https://github.com/patroneshermosos-oficial/school-relationships)**: Contains documentation, contact information, and progress updates related to establishing relationships with schools in Aguascalientes.
 - **/course-guidelines**: Includes the guidelines for creating a new course, along with any supporting materials and resources.
 
 You can find all the weekly work I did during my summer collaboration with BP in this file. It also contains information of all the books read during the summer and what I think about them.
