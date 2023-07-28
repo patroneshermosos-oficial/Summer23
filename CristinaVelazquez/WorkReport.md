@@ -4,7 +4,7 @@
 
 ### Book of the week
 
-- Book 1: The first 90 days - Michael Watkins [My opinion](link).
+- Book 1: The first 90 days - Michael Watkins [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book1.md).
 
 ### Tasks
 
@@ -14,7 +14,7 @@
 
 ### Book of the week
 
-- Book 2: Range - David Epstein [My opinion](link).
+- Book 2: Range - David Epstein [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book2.md).
 
 ### Accomplishments
 
@@ -37,7 +37,7 @@
 
 ### Book of the week
 
-- Book 3: The lean startup - Eric Ries [My opinion](link).
+- Book 3: The lean startup - Eric Ries [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book3.md).
 
 ### Challenges
 
@@ -58,7 +58,7 @@
 
 ### Book of the week
 
-- Book 4: The making of a manager - Julie Zhuo [My opinion](link).
+- Book 4: The making of a manager - Julie Zhuo [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book4.md).
 
 ### Accomplishments
 
@@ -86,7 +86,7 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 ### Book of the week
 
-- Book 5: The coddling of the american mind - Greg Lukianoff and Jonathan Haidt [My opinion](link).
+- Book 5: The coddling of the american mind - Greg Lukianoff and Jonathan Haidt [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book5.md).
 
 ### Accomplishments
 
@@ -103,7 +103,7 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 ### Book of the week
 
-- Book 6: Influence - Robert B Cialdini [My opinion](link).
+- Book 6: Influence - Robert B Cialdini [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book6.md).
 
 ### Accomplishments
 
@@ -123,7 +123,7 @@ Due to the timing constraints and the need for ongoing facilitation of the colla
 
 ### Book of the week
 
-- Book 7: The Demon-Haunted World - Greg Lukianoff and Jonathan Haidt [My opinion](link).
+- Book 7: The Demon-Haunted World - Greg Lukianoff and Jonathan Haidt [My opinion](https://github.com/patroneshermosos-oficial/Summer23/blob/main/CristinaVelazquez/Book7.md).
 
 ### Accomplishments
 
